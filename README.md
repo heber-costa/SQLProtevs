@@ -1,2 +1,2 @@
 # SQL_TOTVSProtheus
-Protevs SQL Scripts for QlikView Analytics - Student
+TOTVS Protheus SQL Scripts for QlikView Analytics - Student
